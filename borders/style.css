@@ -1,0 +1,6 @@
+.class01 {
+  border-width: 6px 10px;
+  border-color: red black;
+  border-style: solid dotted;
+  border-radius: 3px;
+}

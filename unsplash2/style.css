@@ -1,0 +1,25 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 25px;
+  align-items: center;
+}
+.navbar ul {
+  flex: 3;
+  display: flex;
+  justify-content: flex-end;
+}
+.navbar .search {
+  flex: 1;
+}
+.navbar .logo {
+  flex: 1;
+}
+.navbar ul li {
+  margin-left: 20px;
+}

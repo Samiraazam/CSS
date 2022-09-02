@@ -1,0 +1,12 @@
+div {
+  background-image: url(./kevin-butz-sZj8qOt3yTU-unsplash.jpg);
+  width: 550px;
+  height: 250px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  float: right;
+}
+p {
+  clear: both;
+}

@@ -1,0 +1,15 @@
+a {
+  padding: 15px 20px;
+  background: red;
+  color: #fff;
+  font-family: 'Times New Roman', Times, serif;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+a:hover {
+  background-color: green;
+  color: black;
+}
+body {
+  margin: 30px;
+}
